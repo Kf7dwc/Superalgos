@@ -1,0 +1,15 @@
+{
+    "review": "Superalgos Project Review",
+    "pageNumber": 24,
+    "type": "Superalgos Review - SuperAlgos - Super Intuitive",
+    "definition": {
+        "text": "Write a summary for this review page."
+    },
+    "paragraphs": [
+        {
+            "style": "Javascript",
+            "text": "My personal review of Superalgos.\n\nENTER to write new paragraphs. ESC to exit edit mode. Then you can use docs.save to save your changes and app.contribute to send it to the main repository.",
+            "updated": 1630877714309
+        }
+    ]
+}
